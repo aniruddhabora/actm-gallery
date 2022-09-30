@@ -3,6 +3,21 @@
 XAI Functions
 =============
 
+* **ACTM Performer:** CSU team;
+* **Author:** Elizabeth A. Barnes (eabarnes@colostate.edu) and Antonios Mamalakis (amamalak@colostate.edu)
+
+Here we provide a clean code snippet to implement XAI methods to explain AI models. 
+
+Specifically, we provide the code to compute the gradients and integrated gradients of a specific model output with respect to the corresponding input (local explanation).
+
+To execute the snippet:
+
+**Step 1:** Download the code in a Jupyter notebook format, using the corresponding option below.
+
+**Step 2:** Integrate the snippet into your code and run it. 
+
+**Step 3:** Define the object "model" (i.e., the machine learning model that you want to explain) and call the XAI function you want to use. 
+
 """
 
 
@@ -17,14 +32,11 @@ import numpy as np
 import tensorflow as tf
 
 
-# In[2]:
-
-
 #.............................................
 # XAI functions
 #.............................................
 
-# before calling these functions in your notebook, make sure you have defined the tensorflow object "model". 
+# Before calling these functions in your notebook, make sure you have defined the object "model". 
 # The "model" is the machine learning model (e.g., neural network) that you want to explain. 
 
 def get_gradients(inputs, top_pred_idx=None):
