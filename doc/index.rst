@@ -20,6 +20,8 @@ Here is a list of projects in ACTM program and their official documentation link
 
 * `AI Methods for Solar Radiation Management Research (Colorado State University) <https://github.com/eabarnes1010/actm-sai-csu/>`_
 
+* `Assessing Risks of High-Impact Climate Changes and Tipping Points with a Data-Informed Climate Model (Caltech) <https://clima.github.io/DARPA-ACTM/dev/>`_
+
 .. toctree::
    :maxdepth: 2
    :caption: Tutorials and Code Snippets
