@@ -22,6 +22,10 @@ Here is a list of projects in ACTM program and their official documentation link
 
 * `Assessing Risks of High-Impact Climate Changes and Tipping Points with a Data-Informed Climate Model (Caltech) <https://clima.github.io/DARPA-ACTM/dev/>`_
 
+* `GAIA: Global AI Accelerator (STR, UNSW) <https://stresearch.github.io/gaia/>`_
+
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Tutorials and Code Snippets
