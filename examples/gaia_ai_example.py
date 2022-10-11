@@ -4,7 +4,7 @@ GAIA: Global AI Accelerator
 
 This repository contains code for training and running climate neural
 network surrogate models. For detais on various experiments visit our
-site *https://stresearch.github.io/gaia/*
+site https://stresearch.github.io/gaia/
 
 **Warning:** *This is an active research project. The code base is
 constantly evolving as new features are being added and old ones are
