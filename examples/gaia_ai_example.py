@@ -6,6 +6,11 @@ This repository contains code for training and running climate neural
 network surrogate models. For detais on various experiments visit our
 site https://stresearch.github.io/gaia/
 
+| The GAIA team is a collaboration between:
+| - `STR <https://www.str.us>`__
+| - `University of New South Wales,
+  Sydney <https://www.ccrc.unsw.edu.au/ccrc-team/academic-research/steven-sherwood>`__
+
 **Warning:** *This is an active research project. The code base is
 constantly evolving as new features are being added and old ones are
 depreciated.*
@@ -411,7 +416,7 @@ fcn: baseline MLP
    }
 
 fcn_history: baseline MLP with an extra input of memory variables
-i.e. outputs from previous time step
+i.e. outputs from previous time step
 
 .. code:: python
 
@@ -424,7 +429,7 @@ i.e. outputs from previous time step
    }
 
 conv1d: same as fcn functionally but accepts an “image” like data
-i.e. image of lat,lon,variablles
+i.e. image of lat,lon,variablles
 
 .. code:: python
 
