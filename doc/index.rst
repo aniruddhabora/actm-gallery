@@ -16,11 +16,15 @@ The objective of ACTM program is to explore AI-assisted modeling of complex proc
 
 Here is a list of projects in ACTM program and their official documentation links:
 
-* `AIBEDO <https://aibedo.readthedocs.io/en/latest/>`_
+* `AIBEDO: a hybrid AI framework to capture the effects of cloud properties on global circulation and regional climate patterns (PARC/University of Victoria/University of Washington) <https://aibedo.readthedocs.io/en/latest/>`_
 
 * `AI Methods for Solar Radiation Management Research (Colorado State University) <https://github.com/eabarnes1010/actm-sai-csu/>`_
 
 * `Assessing Risks of High-Impact Climate Changes and Tipping Points with a Data-Informed Climate Model (Caltech) <https://clima.github.io/DARPA-ACTM/dev/>`_
+
+* `GAIA: Global AI Accelerator (STR, UNSW) <https://stresearch.github.io/gaia/>`_
+
+
 
 .. toctree::
    :maxdepth: 2

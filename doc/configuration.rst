@@ -121,7 +121,6 @@ the sphinx configuration dictionary::
     sphinx_gallery_conf = {
         ...
         'examples_dirs': ['../examples', '../tutorials'],
-        'gallery_dirs': ['auto_examples', 'tutorials'],
     }
 
 Keep in mind that both lists have to be of the same length.
@@ -306,9 +305,7 @@ the order of all subfolders in your galleries::
     sphinx_gallery_conf = {
         ...
         'examples_dirs': ['../examples','../tutorials'],
-        'subsection_order': ExplicitOrder(['../examples/sin_func',
-                                           '../examples/no_output',
-                                           '../tutorials/seaborn']),
+
     }
 
 Here we build 2 main galleries `examples` and `tutorials`, each of them
