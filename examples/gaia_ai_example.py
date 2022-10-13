@@ -59,7 +59,7 @@ Example Toy Dataset
 ~~~~~~~~~~~~~~~~~~~
 
 We provide a toy dataset
-`here <https://4d41262f-0f54-45cc-b82b-6ba60be7a600-gaia-models.s3.amazonaws.com/actm_gallery/test>`__.
+`here <https://4d41262f-0f54-45cc-b82b-6ba60be7a600-gaia-models.s3.amazonaws.com/actm_gallery/cam4_toy.tar.gz>`__.
 It’s subsampled cam4 dataset.
 
 Process Raw Dataset
@@ -591,9 +591,9 @@ For lower level model access, you can load it directly:
 Download pre-trained models:
 
 -  `FCN
-   CAM4 <https://4d41262f-0f54-45cc-b82b-6ba60be7a600-gaia-models.s3.amazonaws.com/actm_gallery/test>`__
+   CAM4 <https://4d41262f-0f54-45cc-b82b-6ba60be7a600-gaia-models.s3.amazonaws.com/actm_gallery/fcn_cam4_model.ckpt>`__
 -  `FCN
-   SPCAM <https://4d41262f-0f54-45cc-b82b-6ba60be7a600-gaia-models.s3.amazonaws.com/actm_gallery/test>`__
+   SPCAM <https://4d41262f-0f54-45cc-b82b-6ba60be7a600-gaia-models.s3.amazonaws.com/actm_gallery/fcn_spcam_model.ckpt>`__
 
 .. |image1| image:: https://stresearch.github.io/gaia/sections/overview/overview_screenshot.png
    :target: https://stresearch.github.io/gaia/
