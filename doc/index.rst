@@ -32,6 +32,11 @@ Here is a list of projects in ACTM program and their official documentation link
 
    tutorials/index
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Julia (CliMA) Tutorials
+
+   julia_tutorials/index
 
 .. toctree::
    :maxdepth: 2
