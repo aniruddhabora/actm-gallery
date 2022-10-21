@@ -1,6 +1,6 @@
 :orphan:
 
-Operator Learning Tools
+Caltech Hybrid Modeling Tools
 =============
 
 * **ACTM Performer:** Caltech team;
@@ -10,7 +10,7 @@ Operator Learning Tools
 This section provides an overview of the CliMA code, including links to documentation containing tutorials.
 The modeling and learning framework for this project is modular, and code for each component resides in unique repositories.
 A hybrid machine-learning model (`TurbulenceConvection.jl`) is calibrated with Ensemble Kalman Processes in `CalibrateEDMF.jl`.
-As training data [linked below] we employ a library of Large Eddy Simulations (LES), driven by conditions found in state of the art climate 
+As training data we employ a library of Large Eddy Simulations (LES) [`Data <https://data.caltech.edu/records/20052>`_], driven by conditions found in state of the art climate 
 simulations at selected location on the globe.
 
  
@@ -27,7 +27,7 @@ Code repositories and data libraries associated with the project:
    * - CalibrateEDMF.jl
      - `Link <https://github.com/CliMA/CalibrateEDMF.jl>`_
      - `Link <https://clima.github.io/CalibrateEDMF.jl/dev/>`_
-     - Framework to learn about cloud processes from data
+     - Framework to learn about cloud processes from library of `LES Data <https://data.caltech.edu/records/20052>`_
    * - EnsembleKalmanProcesses.jl
      - `Link <https://github.com/CliMA/EnsembleKalmanProcesses.jl>`_
      - `Link <https://clima.github.io/EnsembleKalmanProcesses.jl/dev/>`_
@@ -41,6 +41,6 @@ Code repositories and data libraries associated with the project:
      -
      - A machine learning package for Fourier Neural Operators
    * - LES library
-     - `Link <https://data.caltech.edu/records/20052>`_
+     - `Data <https://data.caltech.edu/records/20052>`_
      -
      - LES generated training data at current climate and 4K warming simulations
