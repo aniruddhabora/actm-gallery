@@ -24,6 +24,8 @@ Here is a list of projects in ACTM program and their official documentation link
 
 * `GAIA: Global AI Accelerator (STR, UNSW) <https://stresearch.github.io/gaia/>`_
 
+* `Hybridizing Knowledge-Based and Machine Learning Models for Climate and Tipping-Point Prediction (UMD, TAMU) <https://awikner.github.io/actm-umd-tamu-prllc/>`_
+
 
 
 .. toctree::
