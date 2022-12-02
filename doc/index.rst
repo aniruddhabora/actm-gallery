@@ -26,6 +26,8 @@ Here is a list of projects in ACTM program and their official documentation link
 
 * `Hybridizing Knowledge-Based and Machine Learning Models for Climate and Tipping-Point Prediction (UMD, TAMU) <https://awikner.github.io/actm-umd-tamu-prllc/>`_
 
+* `The Physics-informed AI Climate Model Agent Neuro-symbolic Simulator (PACMANS) for Tipping Point Discovery (JHU, APL) <https://pacmans.readthedocs.io/en/latest/>`_
+
 
 
 .. toctree::
