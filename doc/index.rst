@@ -29,6 +29,7 @@ Here is a list of projects in ACTM program and their official documentation link
 * `The Physics-informed AI Climate Model Agent Neuro-symbolic Simulator (PACMANS) for Tipping Point Discovery (JHU, APL) <https://pacmans.readthedocs.io/en/latest/>`_
 
 
+* `Detecting Early Warning Signals of Tipping Points for Climate Shifts (UoE, UW) <https://github.com/jabrams23/UoE-UW-DARPA>`_
 
 .. toctree::
    :maxdepth: 2
