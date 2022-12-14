@@ -31,6 +31,8 @@ Here is a list of projects in ACTM program and their official documentation link
 
 * `Detecting Early Warning Signals of Tipping Points for Climate Shifts (UoE, UW) <https://github.com/jabrams23/UoE-UW-DARPA>`_
 
+* `Quantification of extreme weather events and their future changes using Physics-Informed DeepONet modeling and functional priors (MIT/BROWN/PNNL) <https://extreme-events-using-scientific-machine-learning.readthedocs.io/en/latest/index.html>`_
+
 .. toctree::
    :maxdepth: 2
    :caption: Tutorials and Code Snippets
